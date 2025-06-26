@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <record id="product_discount" model="product.product">
+        <field name="name">Discount Product</field>
+        <field name="is_discount" eval="True" />
+        <field name="list_price">-1.0</field>
+        <field name="taxes_id" eval="[(6,0,[])]" />
+        <field name="available_in_pos" eval="True" />
+    </record>
+</odoo>
