@@ -1,0 +1,2 @@
+# pos_order_global_discount
+pos_order_global_discount
